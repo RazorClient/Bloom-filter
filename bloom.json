@@ -1,0 +1,58 @@
+{
+  "levels": [
+    {
+      "bit_array": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true
+      ]
+    },
+    {
+      "bit_array": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true
+      ]
+    },
+    {
+      "bit_array": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true
+      ]
+    }
+  ],
+  "hash_functions": [
+    {
+      "multiplier": 31
+    },
+    {
+      "multiplier": 37
+    },
+    {
+      "multiplier": 41
+    }
+  ],
+  "array_size": 10
+}
